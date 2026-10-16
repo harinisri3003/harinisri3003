@@ -104,8 +104,7 @@ Percentage: 91%
 
 ## 🏆 Certifications & Learning
 
-[- Playwright with C# - Udemy https://drive.google.com/file/d/1sjaTY-fIdWhrEhUdAsw2OTkMHlzNnrMD/view?usp=drive_link
-](https://drive.google.com/file/d/1sjaTY-fIdWhrEhUdAsw2OTkMHlzNnrMD/view?usp=drive_link)---
+- Playwright with C# — [Udemy](https://drive.google.com/file/d/1sjaTY-fIdWhrEhUdAsw2OTkMHlzNnrMD/view?usp=drive_link)
 
 ## 📊 Coding Profiles
 
