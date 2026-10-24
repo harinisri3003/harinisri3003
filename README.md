@@ -8,11 +8,11 @@ I'm passionate about writing reliable automation tests, developing web applicati
 
 - 🔭 Currently working on **Test Automation using Playwright and C#**
 - 🧪 Working in the **Insurance Domain — Guidewire PolicyCenter**
-- 🌱 Continuously learning **Data Structures & Algorithms, SQL, API Testing, and System Design**
-- 💻 Interested in **Software Development, Test Automation, and Quality Engineering**
+- 🌱 Continuously learning **Data Structures & Algorithms, SQL**
+- 💻 Interested in **Test Automation, and Quality Engineering**
 - 🎯 Goal: Grow as an engineer and contribute to building reliable, scalable software
 - 💬 Ask me about Playwright, C#, Java, SQL, Data Structure & Algorithms
-- ⚡ Fun fact: I enjoy problem solving, going to the gym, learning keyboard, and graphic design
+- ⚡ Fun fact: I enjoy problem solving, going to the gym, learning keyboard
 
 ---
 
@@ -28,7 +28,6 @@ I'm passionate about writing reliable automation tests, developing web applicati
 - UI Automation Testing
 - Test Case Design and Execution
 - Regression Testing
-- Functional Testing
 
 ### Databases
 - MySQL
@@ -50,8 +49,6 @@ I'm passionate about writing reliable automation tests, developing web applicati
 ### Currently Strengthening
 - Data Structures & Algorithms
 - SQL and Database Testing
-- API Testing
-- System Design
 - Java Problem Solving
 
 ---
@@ -96,7 +93,7 @@ Percentage: 91%
 - Practicing Data Structures and Algorithms using coding problems.
 - Strengthening Java programming and problem-solving skills.
 - Learning SQL queries and database concepts.
-- Exploring API testing and test automation frameworks.
+- Exploring test automation frameworks.
 - Improving knowledge of software design and system design.
 - Building hands-on projects to strengthen development and testing skills.
 
@@ -117,6 +114,7 @@ Percentage: 91%
 - 📧 Email: [harinisri3003@gmail.com](mailto:harinisri3003@gmail.com)
 - 💼 LinkedIn: [Harini Sri](https://www.linkedin.com/in/harinisri3003/)
 - 🐙 GitHub: [harinisri3003](https://github.com/harinisri3003)
+- 🐙 Portfolio: [harinisri3003](https://harini-sri.framer.website/)
 
 ---
 
