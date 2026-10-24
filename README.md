@@ -21,7 +21,6 @@ I'm passionate about writing reliable automation tests, developing web applicati
 ### Programming Languages
 - Java
 - C#
-- SQL
 
 ### Automation Testing & Quality Engineering
 - Playwright with C#
