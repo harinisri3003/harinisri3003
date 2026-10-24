@@ -2,7 +2,7 @@
 
 ### 💻 Passionate Software Engineer | Automation Tester | Problem Solver
 
-I'm a Software Engineer with experience in software testing and automation, currently working with **Playwright, C#, and Guidewire PolicyCenter**. I enjoy exploring new technologies, solving problems, building projects, and continuously improving my technical skills.
+I'm a Software Engineer with 2 years of experience in software testing and automation, currently working with **Playwright, C#, and Guidewire PolicyCenter**. I enjoy exploring new technologies, solving problems, building projects, and continuously improving my technical skills.
 
 I'm passionate about writing reliable automation tests, developing web applications, and growing as a software engineer.
 
@@ -64,28 +64,6 @@ I'm passionate about writing reliable automation tests, developing web applicati
 - Supporting application quality through test execution, defect identification, and validation.
 - Continuously improving automation skills and software testing practices.
 
-## 🚀 Projects
-
-### 1. PolicyTrack — Insurance Policy Management System
-**Technologies:** Java, Jakarta Servlets, JSP, MySQL
-
-- Working on an insurance policy management application.
-- Exploring CRUD operations and database integration.
-- Setting up the application locally and improving its functionality.
-- Using the project to strengthen application testing and debugging skills.
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science (B.Sc. CS)**  
-South Travancore Hindu College | 2021–2024  
-CGPA: 9.0/10
-
-**Higher Secondary Education**  
-Evans Matric Higher Secondary School | 2020–2021  
-Percentage: 91%
-
 ---
 
 ## 📚 Learning & Development
@@ -98,10 +76,6 @@ Percentage: 91%
 - Building hands-on projects to strengthen development and testing skills.
 
 ---
-
-## 🏆 Certifications & Learning
-
-- Playwright with C# — [Udemy](https://drive.google.com/file/d/1sjaTY-fIdWhrEhUdAsw2OTkMHlzNnrMD/view?usp=drive_link)
 
 ## 📊 Coding Profiles
 
