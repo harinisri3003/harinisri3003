@@ -25,62 +25,69 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
-    <img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"/>
-  </a>
-  <a href="https://playwright.dev/" title="Playwright">
-    <img src="https://skillicons.dev/icons?i=playwright" width="55" alt="Playwright"/>
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
-  </a>
-</p>
-
-<p align="center">
-  Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  C# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Playwright &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  MySQL
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>
+      <br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" alt="C#"/>
+      <br/><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="48" title="Playwright" alt="Playwright"/>
+      <br/><sub><b>Playwright</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/>
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Tools & Platforms
 
-<p align="center">
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps">
-    <img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure DevOps"/>
-  </a>
-  <a href="https://www.jetbrains.com/teamcity/" title="TeamCity">
-    <img src="https://cdn.simpleicons.org/teamcity/000000" width="50" alt="TeamCity"/>
-  </a>
-  <a href="https://octopus.com/" title="Octopus Deploy">
-    <img src="https://cdn.simpleicons.org/octopusdeploy/2F93E0" width="50" alt="Octopus Deploy"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" title="Visual Studio">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="50" alt="Visual Studio"/>
-  </a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="Visual Studio Code"/>
-  </a>
-</p>
-
-<p align="center">
-  Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; Azure DevOps &nbsp;&nbsp;&nbsp;&nbsp; TeamCity
-</p>
-<p align="center">
-  Octopus Deploy &nbsp;&nbsp;&nbsp;&nbsp; Visual Studio &nbsp;&nbsp;&nbsp;&nbsp; VS Code
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" width="45" title="Git" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="45" title="Azure DevOps" alt="Azure DevOps"/>
+      <br/><sub><b>Azure DevOps</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/teamcity/FFFFFF" width="45" title="TeamCity" alt="TeamCity"/>
+      <br/><sub><b>TeamCity</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/octopusdeploy/2F93E0" width="45" title="Octopus Deploy" alt="Octopus Deploy"/>
+      <br/><sub><b>Octopus Deploy</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="45" title="Visual Studio" alt="Visual Studio"/>
+      <br/><sub><b>Visual Studio</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" title="Visual Studio Code" alt="Visual Studio Code"/>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge" height="28" title="CI/CD Pipelines" alt="CI/CD Pipelines"/>
+      <br/><sub><b>CI/CD Pipelines</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,7 +95,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Guidewire-PolicyCenter-0078D4?style=flat-square" alt="Guidewire PolicyCenter"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2496ED?style=flat-square" alt="CI/CD Pipelines"/>
   <img src="https://img.shields.io/badge/Regression-Testing-6A5ACD?style=flat-square" alt="Regression Testing"/>
   <img src="https://img.shields.io/badge/Agile-Methodology-0052CC?style=flat-square" alt="Agile"/>
 </p>
