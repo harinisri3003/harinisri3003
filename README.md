@@ -1,65 +1,87 @@
-# Hi, I'm Harini Sri! 👋
+# 👋 Hey there! I'm Harini Sri
 
-### 💻 Software Engineer | Automation Tester | Problem Solver
+### 💻 Software Engineer | Automation Tester
 
-💼 2 Years of Experience  
-🧪 Working with Playwright, C# & Guidewire PolicyCenter  
-🌱 Learning Java, Data Structures & Algorithms, SQL  
-🎯 Interested in Test Automation & Quality Engineering  
-⚡ Gym | Keyboard | Problem Solving
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Reliable+Software+%F0%9F%9A%80;Automating+with+Playwright+%26+C%23;Always+Learning+%7C+Always+Growing+%E2%9C%A8" />
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Automation & Testing**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Domain & Practices**
-
-`Guidewire PolicyCenter` `Insurance` `UI Automation` `Regression Testing` `CI/CD` `Agile`
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%20Years-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Insurance-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Test%20Automation-success?style=flat-square" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+### ⚡ About Me
 
-📌 Data Structures & Algorithms  
-📌 Java Problem Solving  
-📌 SQL & Database Testing  
-📌 System Design
-
----
-
-## 👩‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HariniSri_3003/)
+- 🔭 Working with **Playwright, C# & Guidewire PolicyCenter**
+- 🌱 Exploring **Java, DSA, SQL & System Design**
+- 🎯 Passionate about **Automation & Quality Engineering**
+- ⚡ Beyond coding: **Gym | Keyboard **
 
 ---
 
-## 🤝 Connect With Me
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinisri3003/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harinisri3003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harini-sri.framer.website/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinisri3003@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,mysql,html,css,js" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=playwright,git,github,azure,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Guidewire-0072C6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logoColor=white" />
+</p>
 
 ---
 
-✨ **Keep Learning. Keep Building. Keep Growing.** 🚀
+### 📚 Currently Exploring
+
+`Data Structures & Algorithms` · `Java` · `SQL` · `Database Testing` · `System Design`
+
+---
+
+### 💻 Coding Profile
+
+<p align="left">
+  <a href="https://leetcode.com/u/HariniSri_3003/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harinisri3003/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/harinisri3003">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  &nbsp;
+  <a href="https://harini-sri.framer.website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:harinisri3003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Keep Learning | Keep Building | Keep Growing 🚀</b>
+</p>
