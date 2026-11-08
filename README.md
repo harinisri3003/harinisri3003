@@ -28,20 +28,20 @@
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>
-      <br/><sub><b>Java</b></sub>
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/>
+      <br/><b>Java</b>
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" alt="C#"/>
-      <br/><sub><b>C#</b></sub>
+      <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"/>
+      <br/><b>C#</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="48" title="Playwright" alt="Playwright"/>
-      <br/><sub><b>Playwright</b></sub>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+      <br/><b>Playwright</b>
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/>
-      <br/><sub><b>MySQL</b></sub>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
+      <br/><b>MySQL</b>
     </td>
   </tr>
 </table>
@@ -53,38 +53,38 @@
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" width="45" title="Git" alt="Git"/>
-      <br/><sub><b>Git</b></sub>
+      <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+      <br/><b>Git</b>
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" alt="GitHub"/>
-      <br/><sub><b>GitHub</b></sub>
+      <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+      <br/><b>GitHub</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="45" title="Azure DevOps" alt="Azure DevOps"/>
-      <br/><sub><b>Azure DevOps</b></sub>
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+      <br/><b>Azure DevOps</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/teamcity/FFFFFF" width="45" title="TeamCity" alt="TeamCity"/>
-      <br/><sub><b>TeamCity</b></sub>
+      <img src="https://cdn.simpleicons.org/teamcity/FFFFFF" width="45" alt="TeamCity"/>
+      <br/><b>TeamCity</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/octopusdeploy/2F93E0" width="45" title="Octopus Deploy" alt="Octopus Deploy"/>
-      <br/><sub><b>Octopus Deploy</b></sub>
+      <img src="https://cdn.simpleicons.org/octopusdeploy/2F93E0" width="45" alt="Octopus Deploy"/>
+      <br/><b>Octopus Deploy</b>
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="45" title="Visual Studio" alt="Visual Studio"/>
-      <br/><sub><b>Visual Studio</b></sub>
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="45" alt="Visual Studio"/>
+      <br/><b>Visual Studio</b>
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" title="Visual Studio Code" alt="Visual Studio Code"/>
-      <br/><sub><b>VS Code</b></sub>
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
+      <br/><b>VS Code</b>
     </td>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge" height="28" title="CI/CD Pipelines" alt="CI/CD Pipelines"/>
-      <br/><sub><b>CI/CD Pipelines</b></sub>
+      <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge" alt="CI/CD Pipelines"/>
+      <br/><b>CI/CD Pipelines</b>
     </td>
   </tr>
 </table>
@@ -103,10 +103,24 @@
 
 ### 📚 Currently Learning
 
-<p align="center">
-  Data Structures & Algorithms &nbsp; • &nbsp; Java <br/>
-  SQL & Database Testing &nbsp; • &nbsp; System Design
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      📌 <b>Data Structures & Algorithms</b>
+    </td>
+    <td align="center" width="50%">
+      ☕ <b>Java</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      🗄️ <b>SQL & Database Testing</b>
+    </td>
+    <td align="center" width="50%">
+      🏗️ <b>System Design</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
