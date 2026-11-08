@@ -114,9 +114,6 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      🗄️ <b>SQL & Database Testing</b>
-    </td>
-    <td align="center" width="50%">
       🏗️ <b>System Design</b>
     </td>
   </tr>
