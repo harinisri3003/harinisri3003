@@ -109,11 +109,6 @@
       📌 <b>Data Structures & Algorithms</b>
     </td>
     <td align="center" width="50%">
-      ☕ <b>Java</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       🏗️ <b>System Design</b>
     </td>
   </tr>
